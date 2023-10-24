@@ -1,6 +1,6 @@
 # C964 Capstone Project Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]([https://jupyterlite.github.io/demo](https://ant-codez.github.io/C964/lab/index.html))
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
