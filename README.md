@@ -1,6 +1,6 @@
 # C964 Capstone Project Demo
 
-Text Profanity Machine Learning Model. Takes in a Phrase as a string of Text input and determines if the Phrase contains Profanity and classifies what type of profanity is being used.
+Machine learning-based profanity filter. Takes a Phrase and determines if the Phrase contains Profanity and classifies what type of profanity is being used.
 
 ## ✨ Try it in your browser ✨
 
@@ -19,7 +19,7 @@ JupyterLite is being tested against modern web browsers:
 ## User Guide:
 
 # Step 1: Accessing the Notebook
-- Open the JupyterLite interface in Firefox 90+ or a Chromium based browser 89+.
+- Open the JupyterLite interface in Firefox 90+ or a Chromium 89+ browser.
 - Click on the Blue Link Provided Above
 - Navigate to File named Capstone.ipynb and double click it
 
