@@ -1,6 +1,6 @@
 # C964 Capstone Project Demo
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Text Profanity Machine Learning Model. Takes in a Phrase as a string of Text input and determines if the Phrase contains Profanity and classifies what type of profanity is being used.
 
 ## ✨ Try it in your browser ✨
 
